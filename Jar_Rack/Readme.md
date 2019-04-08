@@ -17,4 +17,5 @@ Has 4 pairs of square holes to embed X-Pillars; 2 for downward, 2 for upward.
 
 ### Base
 
-* April 8th, 2019: Base assembler gaps (each side) are reduced from 0.5mm to 0.25mm because bilateral 0.5mm gap was sloppy with 0.1mm resolution.
+#### April 8th, 2019
+* Base assembler gaps (each side) are reduced from 0.5mm to 0.25mm because bilateral 0.5mm gap was sloppy with 0.1mm resolution.
