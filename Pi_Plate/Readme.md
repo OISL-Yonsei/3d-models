@@ -1,6 +1,6 @@
 # Pi Plate
 
-A case for Raspberry Pi 3 B+, able to be screwed on optical table  
+A bottom case for Raspberry Pi 3 B+, able to be screwed on optical table.  
 (M6 screw holes, positioned as vertices of vertically and horizontally stacked squares with 25mm sides.)
 
 ## Update
