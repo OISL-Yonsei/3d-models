@@ -9,4 +9,4 @@ Thickness : 6mm\
 Inner thickness : 1.3mm\
 Cable thickness : 3mm
 
-![Sketch](./Blueprint.png)
+![Sketch](./Blueprint.PNG)
