@@ -5,7 +5,7 @@ A bottom case for Arduino Uno (Rev3), able to be screwed on optical table.
 
 ## Updates
 
-#### April 16th, 2016
+#### April 16th, 2019
 * The board does not fit -> Increased base width and height.
 * Port gaps do not fit -> Moved port gaps toward power plug direction.
 * Thickened thick pillars and thin pillars.
