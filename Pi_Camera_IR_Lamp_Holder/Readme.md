@@ -4,6 +4,13 @@ A holder which forms an array with a centered pi camera and multiple surrounding
 
 ## Updates
 
+### IR Trio Frame
+
+Adhesion of 2 IR lamp holders with poles for pi camera screw holes.
+
+#### May 22nd, 2019
+* Initial commit.
+
 ### IR Lamp
 
 #### May 21st, 2019
