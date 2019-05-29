@@ -8,6 +8,9 @@ A holder which forms an array with a centered pi camera and multiple surrounding
 
 Adhesion of 2 IR lamp holders with poles for pi camera screw holes.
 
+#### May 29th, 2019
+* Thin radius of 2 outlying poles increased (rolled-back) from 1.5mm to 2mm.
+
 #### May 24th, 2019
 * Aligned camera poles with lamp centers.
 * Wedge holes moved toward lamp by 0.75mm.
