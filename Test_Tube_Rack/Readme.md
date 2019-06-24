@@ -20,6 +20,7 @@ Everything without bridge.
 
 #### June 24th, 2019
 * Pillar sides shortened from 10mm to 6mm.
+* Base plate thickness decreased from 10mm to 5mm.
 
 #### June 22nd, 2019
 * Initial commit.
