@@ -18,6 +18,9 @@ Bridge that holds each tube's neck.
 
 Everything without bridge.
 
+#### June 24th, 2019
+* Pillar sides shortened from 10mm to 6mm.
+
 #### June 22nd, 2019
 * Initial commit.
 
