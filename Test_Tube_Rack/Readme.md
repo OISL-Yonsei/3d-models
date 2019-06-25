@@ -18,6 +18,11 @@ Bridge that holds each tube's neck.
 
 Everything without bridge.
 
+#### June 25th, 2019
+* Base plate thickness increased from 5mm to 7mm (5mm was so thin that it makes a hole.)
+* Bridge connector male diameter increased from 3mm to 4mm.
+* Pillar supports added.
+
 #### June 24th, 2019
 * Pillar sides shortened from 10mm to 6mm.
 * Base plate thickness decreased from 10mm to 5mm.
