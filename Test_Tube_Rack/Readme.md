@@ -18,6 +18,10 @@ Bridge that holds each tube's neck.
 
 Everything without bridge.
 
+#### June 26th, 2019
+* Base plate thickness decreased from 8mm to 5mm.
+* Concave sphere height increased from 15mm to 16.5mm(this was the true reason of holes.)
+
 #### June 25th, 2019
 * Base plate thickness increased from 5mm to 7mm (5mm was so thin that it makes a hole.)
 * Bridge connector male diameter increased from 3mm to 4mm.
