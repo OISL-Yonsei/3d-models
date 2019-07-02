@@ -12,14 +12,14 @@ A holder of 50mL centrifuge tube that can be attached to an optic table or its c
 ### Sindoh 3DWOX 1 (in Makerspace, Yonsei Central Library)
 #### Basic settings tab(기본설정 탭)
 * Layer height(레이어 높이): 0.1~0.15mm
-* Infill(채우기 밀도): 10%
+* Infill density(채우기 밀도): 10%
 #### Support tab(서포트 탭)
-* Support: Everywhere
+* Forming location(생성 위치): Everywhere
 * Support formation angle(서포트 생성 각도): 60 degrees
 #### Bed adhesion tab(베드 고정 탭)
-* Bed adhesion type(베드 고정 타입): Raft or Brim
-* Raft size(래프트 크기)(Only if Bed adhesion type is Raft): 3mm(if the estimated time is too long, reduce this value to 2mm)
-* Other options: default values
+* Bed adhesion type(베드 고정 타입): Raft
+* Raft size(래프트 크기): 3mm(if the estimated time is too long, reduce this value to 2mm)
+#### Other options: default values
 
 ## Updates
 
