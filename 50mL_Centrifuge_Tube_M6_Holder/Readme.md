@@ -9,7 +9,7 @@ A holder of 50mL centrifuge tube that can be attached to an optic table or its c
 
 ## Print Setting
 
-### Sindoh 3DWOX 1 (in Makerspace, Yonsei Central Library)
+### Sindoh 3DWOX 1 (in Makerspace, Yonsei Central Library. FDM)
 #### Basic settings tab(기본설정 탭)
 * Layer height(레이어 높이): 0.1~0.15mm
 * Infill density(채우기 밀도): 10%
