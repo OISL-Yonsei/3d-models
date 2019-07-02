@@ -5,7 +5,7 @@ A holder of 50mL centrifuge tube that can be attached to an optic table or its c
 ## Components
 * Assembly gap: 0.3mm
 * **Hand**: Holds the tube.
-* **Root**: Is attached on the M6 holes.
+* **Root**: Holds hand and sticks to optical table or plate via M6 holes.
 
 ## Print Setting
 
